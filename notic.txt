@@ -1,0 +1,4 @@
+{
+    _props_: // per_user
+    activeness: // "pending", "active", "closed"
+}
